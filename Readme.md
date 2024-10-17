@@ -1,0 +1,1 @@
+in root create a guff directory, add a guff model and adjust path in llamacpp/llm.js relatively to make this work
